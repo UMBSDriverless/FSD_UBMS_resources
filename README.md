@@ -8,6 +8,7 @@ Resources to study and know the basics of:
 
 ## Robotics
 Instruments and methods from robotics are useful for system orcherstration. Such methods provide an interface for all the various parts and ensure a stabile system operation.
+- Unibo [Industrial robotics](https://web.microsoftstream.com/user/606d5447-cbd8-4e7e-b138-628a15a51321) course lessons by Prof Palli.
 - [Introductive course](http://ais.informatik.uni-freiburg.de/teaching/ss16/robotics/index_en.php) to mobile robotics.
 - [Resource collection](https://github.com/kiloreux/awesome-robotics) about various arguments robotics-related stuff.
 ### ROS
