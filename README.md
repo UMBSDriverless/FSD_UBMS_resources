@@ -16,6 +16,7 @@ ROS ("Robot os") is a developement middleware/framework directed towards robotic
 - ROS [Wiki](http://wiki.ros.org) ([introduction](http://wiki.ros.org/ROS/Introduction) e and [tutorial](http://wiki.ros.org/ROS/Tutorials) pages in particular).
 - [Playlist](https://www.youtube.com/playlist?list=PLRG6WP3c31_U7TFGduEIJWVtkOw6AJjFf) and [slides](https://github.com/ROBOTIS-GIT/ros_seminar) for a brief introduction.
 - [Basics](https://www.youtube.com/playlist?list=PLK0b4e05LnzZWg_7QrIQWyvSPX2WN2ncc) on main ROS concepts.
+- [Palli's lesson](https://web.microsoftstream.com/video/26d259a9-ef87-4367-9fb5-a864d68688d6?list=user&userId=606d5447-cbd8-4e7e-b138-628a15a51321) on ros
 
 ## Machine Learning
 Machine learning and machine vision will be needed for the perception and motion planning modules.
